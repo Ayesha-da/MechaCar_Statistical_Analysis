@@ -35,4 +35,5 @@ The Variance for entire manufacturing lot is 62.293 which meets the current manu
 
 ![t-test-per-lot](https://user-images.githubusercontent.com/84524153/133929007-3436b462-4b69-4c09-9bef-09bc670be13e.png)
 
+The null hypothesis assumes that there is no meaningful difference between the two means.Therefore the goal of the T-test is to reject the null hypothesis.
 ## Study Design: MechaCar vs Competition
