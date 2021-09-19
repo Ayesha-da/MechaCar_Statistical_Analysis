@@ -1,13 +1,22 @@
 # MechaCar_Statistical_Analysis
-### Overview
+## Overview
 To review the production data for insights that may help the manufacturing team overcome production troubles that are blocking the manufacturing team’s progress.
 ## Linear Regression to Predict MPG
-
-- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-- Is the slope of the linear model considered to be zero? Why or why not?
-- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 ![lm](https://user-images.githubusercontent.com/84524153/133928297-a261dd4c-f24d-4d2c-be1b-00c8d9771064.png)
 ![lm-summary](https://user-images.githubusercontent.com/84524153/133928314-8aa404ab-5aff-4eb5-9de4-abc7217b5f08.png)
+
+- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+ 
+  The **vehicle length**, and **vehicle ground clearance** provided a non-random amount of variance to the mpg values in the dataset.T values are relatively far away from zero       which indicate a relationship exists and these two variables have significant impact on mpg.
+  
+- Is the slope of the linear model considered to be zero? Why or why not?
+ 
+  The **p-value: 5.35e-11** is much smaller han the assumed significance level of 0.05%.This indicates there is sufficient evidence to reject null hypothesis and the slope of     the linear model is not zero.
+
+- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+  This linear model has **R-squared:  0.7149**, which means that approximately 71% of all mpg predictions will be determined by this model. This model  predict mpg of              MechaCar prototypes effectively.
+ 
 
 ## Summary Statistics on Suspension Coils
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
