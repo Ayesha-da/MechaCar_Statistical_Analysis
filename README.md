@@ -42,8 +42,10 @@ Here we can see  mean of the sample is 1498.78 with a p-Value of 0.06, which is 
 the null hypothesis. That is to say, the mean of all three of these manufacturing lots is statistically similar to the presumed population mean of 1500.
 
 #### Individual lots
-- Lot 1 has sample mean of 1500,with a p-Value of 1 and so we don't have enough evidence to reject the null hypothesis and so there is no statistical difference between the observed sample mean and the presumed population mean (1500).
-Lot 2 has  sample mean of 1500.02, with a p-Value of 0.61 and so the null hypothesis cannot be rejected, and the sample mean and the population mean of 1500 are statistically similar.
-Lot 3 however has the sample mean of 1496.14 and the p-Value is 0.04, which is lower than the common significance level of 0.05 indicating to reject the null hypothesis and so there is a statistical difference between the sample mean and the population mean.The suspension coils from this lot need to be inspected to remove those not meeting quality criteria.
+- Lot 1 has sample mean of 1500,with a p-Value of 1 and so we don't have enough evidence to reject the null hypothesis and so there is no statistical difference between the observed sample mean and the presumed population mean.
+
+- Lot 2 has  sample mean of 1500.02, with a p-Value of 0.61 and so the null hypothesis cannot be rejected, and the sample mean and the population mean of 1500 are statistically similar.
+
+- Lot 3 however has the sample mean of 1496.14 and the p-Value is 0.04, which is lower than the common significance level of 0.05 indicating to reject the null hypothesis and so there is a statistical difference between the sample mean and the population mean.The suspension coils from this lot need to be inspected to remove those not meeting quality criteria.
 
 ## Study Design: MechaCar vs Competition
