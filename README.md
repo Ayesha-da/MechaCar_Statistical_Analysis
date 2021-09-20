@@ -49,3 +49,31 @@ the null hypothesis. That is to say, the mean of all three of these manufacturin
 - Lot 3 however has the sample mean of 1496.14 and the p-Value is 0.04, which is lower than the common significance level of 0.05 indicating to reject the null hypothesis and so there is a statistical difference between the sample mean and the population mean.The suspension coils from this lot need to be inspected to remove those not meeting quality criteria.
 
 ## Study Design: MechaCar vs Competition
+A  statistical study that can quantify how the MechaCar performs against the competition
+
+- What metric or metrics are you going to test?
+
+   Selling price - Dependent variable
+
+   Highway fuel efficiency - Independent variable
+
+   Maintenance cost - Independent variable  
+
+   MPG - Independent variable
+
+   Safety rating - Independent variable
+   
+- What is the null hypothesis or alternative hypothesis?
+
+   Null Hypothesis (Ho): MechaCar selling price is correct based on its performance of key factors.
+
+   Alternative Hypothesis (Ha): MechaCar selling price is NOT correct based on performance of key factors.
+
+- What statistical test would you use to test the hypothesis? And why?
+
+   Multiple linear regression, because it can process more than two independent variables for one dependent variable and helps find factors that have higher correlation with selling price
+   
+- What data is needed to run the statistical test?
+
+  We can perform statistical tests on data that have been collected in a statistically valid manner – either through an experiment, or through observations made using      probability sampling methods. For a statistical test to be valid,  sample size needs to be large enough to approximate the true distribution of the population being studied.
+   
