@@ -11,7 +11,7 @@ To review the production data for insights that may help the manufacturing team 
   
 - Is the slope of the linear model considered to be zero? Why or why not?
  
-  The **p-value: 5.35e-11** is much smaller han the assumed significance level of 0.05%.This indicates there is sufficient evidence to reject null hypothesis and the slope of     the linear model is not zero.
+  The **p-value: 5.35e-11** is much smaller than the assumed significance level of 0.05%.This indicates there is sufficient evidence to reject null hypothesis and the slope of     the linear model is not zero.
 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
